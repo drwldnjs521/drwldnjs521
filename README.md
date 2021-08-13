@@ -4,6 +4,10 @@
 
 Hi, I'm Jeewon Lee and studying computer science at Heinrich-Heine-university in Germany.:wave:
 
+## Language skills
+
+
+
 <!--
 **drwldnjs521/drwldnjs521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
